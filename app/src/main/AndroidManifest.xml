@@ -9,7 +9,32 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Village">
-        <activity android:name=".MainActivity"
+        <activity
+            android:name=".reportActivity"
+            android:exported="false" />
+        <activity
+            android:name=".bulkMilkActivity"
+            android:exported="false" />
+        <activity
+            android:name=".membershipActivity"
+            android:exported="false" />
+        <activity
+            android:name=".productsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".registerActivity"
+            android:exported="false" />
+        <activity
+            android:name=".customerActivity"
+            android:exported="false" />
+        <activity
+            android:name=".sellMilkActivity"
+            android:exported="false" />
+        <activity
+            android:name=".buyMilkActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

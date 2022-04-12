@@ -6,14 +6,62 @@
     tools:context=".NotificationFragment">
 
     <!-- TODO: Update blank fragment layout -->
-    <TextView
+<!--    <TextView-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="match_parent"-->
+<!--        android:text="Notification"-->
+<!--        android:gravity="center"-->
+<!--        android:background="#f0ec13"-->
+<!--        android:textStyle="bold"-->
+<!--        android:textSize="34sp"-->
+<!--        android:textColor="@color/black"/>-->
+
+    <ScrollView
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:text="Notification"
-        android:gravity="center"
-        android:background="#f0ec13"
-        android:textStyle="bold"
-        android:textSize="34sp"
-        android:textColor="@color/black"/>
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:orientation="vertical">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:background="#ede609">
+
+
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:background="#06ed02"
+                android:layout_marginTop="30dp">
+
+
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:background="#021aed"
+                android:layout_marginTop="30dp">
+
+
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:background="#ed2602"
+                android:layout_marginTop="30dp">
+
+
+            </RelativeLayout>
+
+
+        </LinearLayout>
+    </ScrollView>
 
 </FrameLayout>

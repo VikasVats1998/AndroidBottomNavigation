@@ -3,7 +3,17 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Mr Vikas Vats/AndroidStudioProjects/Village/app/src/main/res/drawable/ic_home.xml" value="0.2455" />
+        <entry key="..\:/Users/Mr Vikas Vats/AndroidStudioProjects/Village/app/src/main/res/layout/activity_bulk_milk.xml" value="0.25" />
+        <entry key="..\:/Users/Mr Vikas Vats/AndroidStudioProjects/Village/app/src/main/res/layout/activity_bulk_milk2.xml" value="0.25" />
+        <entry key="..\:/Users/Mr Vikas Vats/AndroidStudioProjects/Village/app/src/main/res/layout/activity_buy_milk.xml" value="0.25" />
+        <entry key="..\:/Users/Mr Vikas Vats/AndroidStudioProjects/Village/app/src/main/res/layout/activity_customer.xml" value="0.25" />
         <entry key="..\:/Users/Mr Vikas Vats/AndroidStudioProjects/Village/app/src/main/res/layout/activity_main.xml" value="0.16802536231884058" />
+        <entry key="..\:/Users/Mr Vikas Vats/AndroidStudioProjects/Village/app/src/main/res/layout/activity_membership.xml" value="0.25" />
+        <entry key="..\:/Users/Mr Vikas Vats/AndroidStudioProjects/Village/app/src/main/res/layout/activity_products.xml" value="0.25" />
+        <entry key="..\:/Users/Mr Vikas Vats/AndroidStudioProjects/Village/app/src/main/res/layout/activity_register.xml" value="0.25" />
+        <entry key="..\:/Users/Mr Vikas Vats/AndroidStudioProjects/Village/app/src/main/res/layout/activity_report.xml" value="0.25" />
+        <entry key="..\:/Users/Mr Vikas Vats/AndroidStudioProjects/Village/app/src/main/res/layout/activity_sell_milk.xml" value="0.25" />
         <entry key="..\:/Users/Mr Vikas Vats/AndroidStudioProjects/Village/app/src/main/res/layout/fragment_home.xml" value="0.19610507246376813" />
         <entry key="..\:/Users/Mr Vikas Vats/AndroidStudioProjects/Village/app/src/main/res/layout/fragment_menu.xml" value="0.19610507246376813" />
         <entry key="..\:/Users/Mr Vikas Vats/AndroidStudioProjects/Village/app/src/main/res/layout/fragment_notification.xml" value="0.19610507246376813" />
